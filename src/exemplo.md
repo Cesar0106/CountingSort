@@ -225,7 +225,7 @@ def f():
 void f() {
     printf("hello world\n");
 }
-```
+``` 
 
 Se não especificar nenhuma, o código fica com colorização de terminal.
 
@@ -237,6 +237,10 @@ hello world
 !!! Aviso
 Este é um exemplo de aviso, entre `md !!!`.
 !!!
+
+:count
+
+:soma
 
 
 ??? Exercício
